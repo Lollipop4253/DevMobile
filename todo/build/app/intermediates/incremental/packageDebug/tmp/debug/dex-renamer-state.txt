@@ -1,4 +1,4 @@
-#Fri Nov 15 18:42:40 YEKT 2024
+#Thu Dec 05 15:23:24 YEKT 2024
 base.0=F\:\\androidProject\\todo\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=F\:\\androidProject\\todo\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.2=F\:\\androidProject\\todo\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
